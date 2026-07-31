@@ -1,8 +1,6 @@
 # Finding a Black Hole in GS2000
 
-This folder contains an HTML notebook export, [p2AP.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/p2AP.html), analyzing the binary system GS2000 to determine whether its unseen compact object is a neutron star or a black hole.
-
-The file [FindingABlackHoles.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/FindingABlackHoles.html) is currently empty, so `p2AP.html` is the actual analysis artifact.
+This folder contains an HTML notebook export, [GS2000_BlackHole_Analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/GS2000_BlackHole_Analysis.html), analyzing the binary system GS2000 to determine whether its unseen compact object is a neutron star or a black hole.
 
 ## Overview
 
@@ -114,5 +112,4 @@ These assumptions affect the exact inferred mass distribution, but not the centr
 
 ## Files
 
-- [p2AP.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/p2AP.html): full notebook export with spectral normalization, velocity fitting, mass-function calculation, and Monte Carlo inference
-- [FindingABlackHoles.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/FindingABlackHoles.html): currently empty placeholder file
+- [GS2000_BlackHole_Analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/GS2000_BlackHole_Analysis.html): full notebook export with spectral normalization, velocity fitting, mass-function calculation, and Monte Carlo inference
