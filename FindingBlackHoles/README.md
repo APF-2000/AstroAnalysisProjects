@@ -1,6 +1,6 @@
 # Finding a Black Hole in GS2000
 
-This folder contains an HTML notebook export, [GS2000_BlackHole_Analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/GS2000_BlackHole_Analysis.html), analyzing the binary system GS2000 to determine whether its unseen compact object is a neutron star or a black hole.
+This folder contains an HTML notebook export, GS2000_BlackHole_Analysis.html, analyzing the binary system GS2000 to determine whether its unseen compact object is a neutron star or a black hole.
 
 ## Overview
 
@@ -113,3 +113,6 @@ These assumptions affect the exact inferred mass distribution, but not the centr
 ## Files
 
 - [GS2000_BlackHole_Analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/FindingBlackHoles/GS2000_BlackHole_Analysis.html): full notebook export with spectral normalization, velocity fitting, mass-function calculation, and Monte Carlo inference
+
+
+Declaration: AI was used to help generate this summary.
