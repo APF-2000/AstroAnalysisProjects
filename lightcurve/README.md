@@ -74,4 +74,3 @@ The notebook also states a few important limitations:
 ## Files
 
 - [QPO_analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/lightcurve/QPO_analysis.html): full notebook export with figures, derivations, and frequency-search workflow
-- [file1.py](/Applications/Data Intensive Science/AstroAnalysisProjects/lightcurve/file1.py): placeholder script currently empty
