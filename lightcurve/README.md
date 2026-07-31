@@ -1,6 +1,6 @@
 # Lightcurve QPO Analysis
 
-This folder contains a notebook export, [QPO_analysis.html](/Applications/Data Intensive Science/AstroAnalysisProjects/lightcurve/QPO_analysis.html), analyzing quasi-periodic oscillations (QPOs) in the lightcurve of an eclipsing binary system with a white-dwarf primary and a main-sequence secondary.
+This folder contains a notebook export, QPO_analysis.html, analyzing quasi-periodic oscillations (QPOs) in the lightcurve of an eclipsing binary system with a white-dwarf primary and a main-sequence secondary.
 
 ## Overview
 
